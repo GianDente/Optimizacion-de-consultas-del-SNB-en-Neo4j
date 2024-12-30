@@ -27,4 +27,4 @@ Particularmente, se determinó que la mejor estrategia es aplicar la materializa
 
 ![esquema](Esquema_Base_de_Datos.jpg)
 
-Imagen en: *```https://github.com/ldbc/ldbc_snb_datagen_spark/blob/main/README.md```*
+Imagen y datos generados de: *```https://github.com/ldbc/ldbc_snb_datagen_spark/blob/main/README.md```*
